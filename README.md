@@ -29,10 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/49384703/120921618-31e7e680-c68a-11eb-83f2-93327477ad2c.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/49384703/120921851-6c9e4e80-c68b-11eb-90e5-afa3ee7c5151.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with [Imgur](http://www.imgur.com/).
+GIF created with [QuickTime Player](https://support.apple.com/en-us/HT208721).
 
 ## Notes
 
