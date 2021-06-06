@@ -24,13 +24,13 @@ The following **additional** features are implemented:
 
 - [X] App-specific Dark Mode
 - [X] Tip Slider with a customizable amount
+- [X] Auto-layout constraints for various screen sizes
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://user-images.githubusercontent.com/49384703/120921851-6c9e4e80-c68b-11eb-90e5-afa3ee7c5151.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 
 GIF created with [QuickTime Player](https://support.apple.com/en-us/HT208721).
 
