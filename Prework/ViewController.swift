@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         // Sets title for this app
-        self.title = "Tip Calculator"
+        self.title = "What's The Tip?"
         
         // Add an observer and setup the darkMode function
         let darkMode = Notification.Name("darkMode enabled")
