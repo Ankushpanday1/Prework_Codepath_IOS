@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 - [X] App-specific Dark Mode
 - [X] Tip Slider with a customizable amount
 - [X] Auto-layout constraints for various screen sizes
+- [X] Locale-specific Currency & Thousands Separator 
 
 ## Video Walkthrough
 
