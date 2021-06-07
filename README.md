@@ -36,7 +36,14 @@ GIF created with [QuickTime Player](https://support.apple.com/en-us/HT208721).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implementing the basic UI for the initial tip calculator proved to be fairly easy, with the steps provided. Dark Mode proved to be quite a challenge, as the app had to have a app-wide darkmode theme. It was a pain to implement this across various view controllers, but I solved this using notifications. 
+
+Another challenge was connecting the slider and updating the right labels. Often, the slider and its respective label would display the wrong value, but this was fixed after refactoring my code.
+
+Various screen sizes also proved to be problematic, as my app would not initially resize. However, I added constraints that aligned all UI elements in my canvas, thus solving the issue and allowing the device to automatically resize each element to fit the right dimensions.
+
+Overall, this was a fun app to build, and I learned a lot about Xcode/Swift through developing it.
+
 
 ## License
 
