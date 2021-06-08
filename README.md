@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/49384703/120921991-475e1000-c68c-11eb-94be-450a50a1a733.mp4' title='Video Walkthrough' width='240' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/49384703/121123089-39bd9d00-c7e8-11eb-9829-8e5cbe39d8c3.gif' title='Video Walkthrough' width='240' alt='Video Walkthrough' />
+
 
 GIF created with [QuickTime Player](https://support.apple.com/en-us/HT208721).
 
