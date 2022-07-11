@@ -49,7 +49,7 @@ Overall, this was a fun app to build, and I learned a lot about Xcode/Swift thro
 
 ## License
 
-    Copyright 2021 Mihir Suvarna
+    Copyright 2022 Ankush Panday
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
